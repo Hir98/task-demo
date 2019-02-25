@@ -1,0 +1,194 @@
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\ApplicationInsights.config
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\RegAndLogin.dll.config
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\RegAndLogin.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\RegAndLogin.pdb
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\csc.exe
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\csc.exe.config
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\csc.rsp
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\csi.exe
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\csi.exe.config
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\csi.rsp
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.AppContext.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Console.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Diagnostics.Process.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.IO.Compression.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.IO.Pipes.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Claims.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Threading.Thread.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.ValueTuple.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Xml.XPath.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\vbc.exe
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\vbc.exe.config
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\vbc.rsp
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\VBCSCompiler.exe
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Antlr3.Runtime.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\EntityFramework.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\EntityFramework.SqlServer.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.DependencyCollector.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.Web.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.WindowsServer.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.ApplicationInsights.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Newtonsoft.Json.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.Helpers.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.Mvc.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.Optimization.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.Razor.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.WebPages.Deployment.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.WebPages.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.WebPages.Razor.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\WebGrease.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\EntityFramework.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\EntityFramework.SqlServer.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.Helpers.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.Mvc.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.Optimization.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.Razor.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.WebPages.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.WebPages.Deployment.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Web.WebPages.Razor.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Newtonsoft.Json.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Antlr3.Runtime.pdb
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.DependencyCollector.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.WindowsServer.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.AI.Web.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.csprojAssemblyReference.cache
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.csproj.CoreCompileInputs.cache
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.csproj.CopyComplete
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.dll
+D:\Hiral Data\Work\MVC\RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.pdb
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\ApplicationInsights.config
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\RegAndLogin.dll.config
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\RegAndLogin.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\RegAndLogin.pdb
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\csc.exe
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\csc.exe.config
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\csc.rsp
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\csi.exe
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\csi.exe.config
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\csi.rsp
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.AppContext.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Console.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Diagnostics.Process.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.IO.Compression.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.IO.Pipes.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Claims.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Threading.Thread.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.ValueTuple.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Xml.XPath.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\vbc.exe
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\vbc.exe.config
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\vbc.rsp
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\VBCSCompiler.exe
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Antlr3.Runtime.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\EntityFramework.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\EntityFramework.SqlServer.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.DependencyCollector.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.Web.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.WindowsServer.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.ApplicationInsights.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Newtonsoft.Json.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.Helpers.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.Mvc.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.Optimization.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.Razor.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.WebPages.Deployment.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.WebPages.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.WebPages.Razor.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\WebGrease.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\EntityFramework.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\EntityFramework.SqlServer.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.Helpers.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.Mvc.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.Optimization.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.Razor.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.WebPages.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.WebPages.Deployment.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Web.WebPages.Razor.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Newtonsoft.Json.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Antlr3.Runtime.pdb
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.DependencyCollector.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.WindowsServer.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.AI.Web.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.csprojAssemblyReference.cache
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.csproj.CoreCompileInputs.cache
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.csproj.CopyComplete
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.dll
+D:\Hiral Data\Work\MVC\08 RegAndLogin\RegAndLogin\obj\Debug\RegAndLogin.pdb
